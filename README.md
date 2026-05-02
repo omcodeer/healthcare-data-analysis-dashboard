@@ -19,10 +19,3 @@ CBP Custody → HHS Care → Discharge
 - Moderate transfer efficiency
 - Backlog indicates system delay
 
-## 💻 Technologies Used
-- Python
-- Pandas
-- Streamlit
-- Matplotlib
-
-## 🚀 How to Run
